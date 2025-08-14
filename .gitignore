@@ -1,0 +1,30 @@
+# Compiled and temporary files
+*.log
+*.tmp
+*.swp
+*.bak
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*~
+*.old
+
+# Environment and credentials
+.env
+*.secret
+*.key
+
+# Python cache (if using Python)
+__pycache__/
+*.pyc
+*.pyo
+
+# Node.js dependencies
+node_modules/
+
+# Output directories
+dist/
+build/
